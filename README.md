@@ -1,2 +1,3 @@
-# DS-teaching-course-website-template
-This is a template repository for all the DataScientia courses websites.
+# EAI 3 course website
+
+Public website https://datascientiafoundation.github.io/datascientia-education-eai3-2024-25-unitn/
